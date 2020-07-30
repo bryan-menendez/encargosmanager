@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proton Manager</string>
+    <string name="encargos">Encargos</string>
+    <string name="nuevo">NUEVO</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="titulo">Titulo</string>
+    <string name="precio">Precio</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="completado">Completado</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="borrar_completados">Borrar completados</string>
+</resources>
